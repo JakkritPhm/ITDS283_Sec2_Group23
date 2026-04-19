@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708277942716",
+    "project_id": "nastefoodwo",
+    "storage_bucket": "nastefoodwo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708277942716:android:df59d6d6f8b544ff8d93b9",
+        "android_client_info": {
+          "package_name": "com.example.nastefoodwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLg87n3oJRASg_SYrLOM3EeG9Zw1OJ3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
