@@ -160,13 +160,6 @@ class _LoginPageState extends State<LoginPage> {
                           ),
                         ],
                       ),
-                      TextButton(
-                        onPressed: () {},
-                        child: const Text(
-                          'Forgot Password?',
-                          style: TextStyle(color: Colors.grey, fontSize: 14),
-                        ),
-                      ),
                     ],
                   ),
 
